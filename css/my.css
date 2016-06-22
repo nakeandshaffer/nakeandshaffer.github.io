@@ -126,3 +126,9 @@ a.nothing_link {
 a {
 	text-decoration: none;
 }
+
+.diary_year {
+	border-bottom-style: solid;
+	border-bottom-color: #262626;
+	border-bottom-width: 2px;
+}
