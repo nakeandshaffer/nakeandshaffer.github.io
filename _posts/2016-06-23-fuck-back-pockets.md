@@ -3,7 +3,7 @@ layout: post
 title: fuck back pockets? 
 author: fn 
 description: why do unfortunate occurrences befall good-natured, honest civilians?
-tag: shaw  chronicals
+tag: shaw chronicles
 ---  
 
 dear diary, 

@@ -17,6 +17,7 @@ permalink: /diary/
     {% endif %}
 
     <a href="{{ post.url }}">{{ post.title }}</a>
+		<div class="text-right">{{ post.tag }}</div>
 		<br />
 
     {% if forloop.last %}
