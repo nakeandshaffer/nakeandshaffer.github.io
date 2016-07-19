@@ -1,3 +1,3 @@
 #!/bin/sh
 
-lessc --clean-css css/my.less css/my.min.css
+lessc --clean-css css/app.less css/app.css
