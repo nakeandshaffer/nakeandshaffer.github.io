@@ -1,10 +1,13 @@
 $(document).foundation();
 
 $(document).ready(function () {
-  $('#codeinput').keyup(function (e) {
+  const input = $('#codeinput');
+  input.keyup(function (e) {
     if (e.which === 13) {
-      if ($('#codeinput').val() === 'chopstix') {
-        alert('You did it!');
+      if (md5(input.val()) === '084e0343a0486ff05530df6c705c8bb4') {
+        document.location.href = '/accepted.html?pword=' + input.val();
+      } else {
+        input.css('border-color', '#b50000');
       }
     }
   });
