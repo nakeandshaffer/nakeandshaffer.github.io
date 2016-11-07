@@ -1,0 +1,52 @@
+body {
+  font-family: 'Heebo', sans-serif !important;
+  background-color: #001A23 !important;
+  color: #E8F1F2 !important;
+}
+
+.container {
+  margin: 20px 20px 20px 20px  !important;
+}
+
+.header {
+  margin: 0px 0px 60px 0px  !important;
+}
+
+h1 {
+  margin: 0px 0px 0px 0px  !important;
+}
+
+ul.nav {
+  list-style: none;
+  padding: 0  !important;
+}
+
+li.booking {
+  display: none;
+}
+
+a {
+  color: inherit  !important;
+  border-bottom: solid 2px transparent  !important;
+  text-decoration: none  !important;
+}
+
+/*tour dates*/
+
+.tour-dates {
+  padding: 0px 0px 15px 0 !important;
+}
+
+ul.tour-dates-list {
+  list-style: none;
+  padding: 0 !important;
+}
+
+ul.tour-dates-list li {
+  overflow: hidden;
+}
+
+.text-right {
+  text-align: right;
+  padding-right: 5px !important;
+}
