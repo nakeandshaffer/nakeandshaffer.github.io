@@ -14,11 +14,16 @@ body {
 
 h1 {
   margin: 0px 0px 0px 0px  !important;
+  font-size: 275% !important;
 }
 
 ul.nav {
   list-style: none;
   padding: 0  !important;
+}
+
+ul.nav li {
+  font-size: 150% !important;
 }
 
 li.booking {
@@ -44,6 +49,7 @@ ul.tour-dates-list {
 
 ul.tour-dates-list li {
   overflow: hidden;
+  font-size: 107% !important;
 }
 
 .text-right {
