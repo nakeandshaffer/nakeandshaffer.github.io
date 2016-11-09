@@ -43,6 +43,23 @@ a {
   text-decoration: none;
 }
 
+input.newsletter {
+  max-width: 100%;
+  width: 330px;
+  padding: 0;
+  border: 0;
+  text-transform: lowercase;
+  background-color: transparent;
+  outline: none;
+  font-size: 105%;
+  color: #E8F1F2;
+  font-family: 'Heebo', sans-serif;
+}
+
+input.newsletter-submit {
+  display: none;
+}
+
 /*tour dates*/
 
 .tour-dates {
