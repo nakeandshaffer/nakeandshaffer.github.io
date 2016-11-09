@@ -30,6 +30,7 @@ ul.nav li {
 
 i {
   min-width: 48px;
+  min-height: 48px;
 }
 
 li.booking {
