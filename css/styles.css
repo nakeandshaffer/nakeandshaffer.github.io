@@ -51,7 +51,7 @@ input.newsletter {
   text-transform: lowercase;
   background-color: transparent;
   outline: none;
-  font-size: 105%;
+  font-size: 100%;
   color: #E8F1F2;
   font-family: 'Heebo', sans-serif;
 }
