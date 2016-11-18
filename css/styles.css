@@ -28,7 +28,7 @@ ul.nav li {
   min-height: 48px;
 }
 
-i {
+i.homepage {
   min-width: 48px;
   min-height: 48px;
 }
@@ -83,4 +83,13 @@ p {
 .text-right {
   text-align: right;
   padding-right: 5px !important;
+}
+
+i.tour-d {
+  width: 22px;
+  padding: 0;
+}
+
+a.not-original {
+  color: #6895a4 !important;
 }
