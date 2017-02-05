@@ -21,11 +21,16 @@ h1 {
 ul.nav {
   list-style: none;
   padding: 0;
+  max-width: 600px;
 }
 
 ul.nav li {
   font-size: 105%;
   min-height: 48px;
+}
+
+ul.nav li.soundcloud {
+  padding-bottom: 50px;
 }
 
 i.homepage {
