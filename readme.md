@@ -1,3 +1,3 @@
-# TODO
-- make homepage text bigger
-- add google locater
+## nake++shaffer's website
+
+*made by Jack Loughran*
